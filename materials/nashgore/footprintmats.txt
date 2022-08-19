@@ -1,0 +1,7 @@
+Material Texture "models/nashgore/Footprint/Footprint01.png"
+{
+	Normal "materials/nashgore/normalmaps/Footprint01_n.png"
+	Specular "materials/nashgore/specularmaps/Footprint01_s.png"
+	Glossiness 25
+	SpecularLevel 5
+}

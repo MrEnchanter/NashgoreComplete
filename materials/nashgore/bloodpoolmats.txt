@@ -1,0 +1,7 @@
+Material Texture "models/nashgore/CorpseBlood/CorpseBlood01.png"
+{
+    Normal "materials/nashgore/normalmaps/CorpseBlood01_n.png"
+	Specular "materials/nashgore/specularmaps/CorpseBlood01_s.png"
+	Glossiness 25
+	SpecularLevel 5
+}
